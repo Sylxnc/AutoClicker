@@ -42,11 +42,6 @@ mvn clean verify
 ## Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz. Siehe [LICENSE](LICENSE).  
-Website: [sylxnc.net](https://sylxnc.net)
-#   A u t o C l i c k e r 
- 
- #   A u t o C l i c k e r 
- 
- #   A u t o C l i c k e r 
- 
+
+
  
